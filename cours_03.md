@@ -2,19 +2,21 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Matis Labelle,
+J'aime: Voiture/Conduire, Voir mes Amis, Jeux Vidéos...
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Design, Vidéo,
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Designer Microsoft
+Designer logo, site web...
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Microsoft, sur la licsence Forza
 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
+Marché du travail ? Université ? certainement dans le multimedia
 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Travailler sur liscence Forza = rêve
