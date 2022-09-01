@@ -2,9 +2,6 @@
 ## Présentation des liens
 Choisissez cinq oeuvres ou compagnies multimédia. Expliquez en quoi ces dernières pourraient contribuer à votre démarche artistique? Pourquoi vous intéressent-t-elles? Comme titre, mettez un lien vers un site relié à votre oeuvre ou entreprise. Écrire 2 à 3 lignes par lien.
 
-Exemple: 
-### [Bulle](https://www.onf.ca/interactif/bulle/) 
-L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
 ### [Hearthstone Battleground](https://hearthstone.blizzard.com/en-gb/battlegrounds/) 
 Ce jeu de stratégie est l'un de mes jeux favoris. Puisqu'il est nécessaire d'utiliser son cerveau pour y jouer il faut choisir ses cartes soi même et le jeu est gratuit et ne comporte très peu d'option présente donc tous les joueurs sont égaux et seul la réflection du joueur peut faire la différence. 
