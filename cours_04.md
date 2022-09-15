@@ -2,19 +2,22 @@
 ## Décrire 5 emplois du domaine du multimédia
 Choisissez des emplois qui pourraient vous intéresser. 
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Artiste Technique - Identification
+Les tâches d’un artiste technique :
+Identifie besoin et problème du projet. Développe outils et stratégie pour assurer la qualité du projet. Documenter et entretenir les outils/procédés/processus. Planifier et documenter les étapes du projet. Partager ses connaissances et les bonnes pratiques. Établir les limitations techniques du projet. Rechercher de nouvelles techniques et clients. C'est un emploie ou il faut travailler emn équipe. On travail de jour et ce sont des horaires fxes. I se fait a l'intérieur et le salaires peuvent aller mde 32 000 à 83 000 par année en moyenne.
 
-### Emploi 2 - Identification
-4 à 5 lignes
 
-### Emploi 3 - Identification
-4 à 5 lignes 
+### Concepteur de Jeu Video - Identification
+Les tâches d’un artiste technique :
+Élabore le concept général du jeu à développer. Participe à l'élaboration du scénario. Il faut participer a la rédaction du scénario, story-board, maquette, cahier des charges. Établir les règles du jeu. Définir les différents niveaux du jeu. Définit les personnages principaux et secondaires, l'évolution du jeu, l'ambiance et l'univers. Décrir les différents éléments graphiques et sonores ainsi que les effets spéciaux. Veiller à l'élaboration des différents éléments de contenu auprès des experts en contenu selon le cahier des charges. Participer au suivi tout au long de la production du jeu afin de s'assurer que le développement est conforme au scénario établi et que les normes de qualité sont respectées. Participer à la recherche de solutions afin de corriger certaines fonctionnalités défectueuses. Veille à mettre à jour ses connaissances de façon à suivre l'évolution des nouvelles technologies et à pouvoir ainsi élaborer des jeux adaptés aux nouvelles capacités de fonctionnement des diverses plateformes de jC'est n travail à horaire fixe, il faut travailler en équipe et le salaires peuvent aller de 32 000 à 98 000 par année
 
-### Emploi 4 - Identification
-4 à 5 lignes
+### Designer Graphique - Identification
+Consulter les clients en vue de prendre connaissance de leurs besoins. Déterminer les moyens les plus appropriés pour produire l'effet visuel désiré. Esquisser les concepts préliminaires ou finaux. Évaluer le coût des matériaux et le temps nécessaire pour réaliser les éléments graphiques. Soumettre le projet au client pour le faire approuver,  apporter les correctifs nécessaires et conclut une entente. Préparer la version finale du jeu et la soumet au client. Planifier et coordonner les différentes étapes techniques d'un projet de design graphique et assurer les relations avec les différents intervenants (photographe, illustrateur, graphiste, imprimeur, architecte, etc.). Peut faire le diagnostic des problèmes de communication visuelle d'un client et en élaborer les solutions. C'est un travail coopératif à horaire fixe, les salaires vont de 32 000 à 83 000 par année.
 
-### Emploi 5 - Identification
-4 à 5 lignes
+### Édimestre - Identification
+Assurer la rédaction et la révision des textes. Effectuer et superviser le traitement et l'intégration des contenus sur le site Web (découpage du contenu, intégration des illustrations, liens avec le contenu existant, alignement des contenus, etc.). Participer à l'amélioration et à la création des contenus. S'assurer que le contenu mis en ligne respecte la politique éditoriale. Effectuer une veille technologique des sites Web et des médias sociaux et partage l'information au besoin. S'assurer de de l'accessibilité au site Web sur les différentes plateformes (mobile, tablette, etc.). Élaborer un calendrier éditorial afin de planifier le moment de la mise en ligne et de la promotion des contenus. Assister les utilisateurs et gère les commentaires. Analyser les statistiques de fréquentation du site Web et fait des recommandations au besoin. Identifier les problèmes techniques potentiels et assure le suivi sur le contrôle de la qualité du site. Peut coordonner la production des visuels qui accompagnent les textes mis en ligne. C'est un travail qui se fait en équipe avec un horairefixe de jour, les salaires vont de 32 000 à 98 000 par année.
+
+### Illustrateur - Identification
+Consulter les clients afin d'analyser leurs besoins. Déterminer la nature et le type d'illustration à réaliser. Évaluer les coûts de réalisation du projet. Négocier les termes du contrat. Produir une esquisse du concept retenu à main levée ou sur ordinateur. Soumettre les projets aux clients pour approbation. Réaliser des dessins ou des illustrations qui racontent, expliquent, décrivent et soutiennent des propos et des idées. Se tenir à jour au sujet des tendances et des nouveautés dans son domaine et dans les domaines connexes. Peut collaborer avec des graphistes, des animateurs 2D-3D, des directeurs artistiques, des éditeurs ou des chefs de projets. C'est un travail qui fonctionne avec des contrats avec la clientèle, les salaires vont de 32 000 et 83 000 par année.
 
 
