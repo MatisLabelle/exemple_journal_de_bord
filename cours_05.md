@@ -16,4 +16,4 @@ Présentation un peu courte, préparer plus de contenu et de meilleurs explicati
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
 
-Abdel et son thème google était très intéressant.
+Abdel et son thème google était très intéressant. Le visuel était le meilleur de période
