@@ -5,6 +5,8 @@
 
 **allo**
 *allo*
+!bravo!
+
 
 #### Autre devoir
 * Lire le guide de l'étudiant et se procurer le matériel mentionné dans celui-ci. 
